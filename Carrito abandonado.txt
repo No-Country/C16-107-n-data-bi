@@ -1,0 +1,64 @@
+https://www.kaggle.com/datasets/mkechinov/direct-messaging
+
+
+Mensajería directa multicanal para comercio electrónico 2021-2023
+Correo electrónico, web push, móvil push y mensajes SMS de una empresa de comercio electrónico.
+
+Acerca del conjunto de datos
+Acerca de
+Este conjunto de datos contiene mensajes multicanal de una tienda en línea de tamaño mediano durante 2 años.
+
+Canales: correo electrónico, web push, móvil push, SMS.
+
+Tipos de campaña: masiva, disparadores, transaccional.
+
+Aviso: este conjunto de datos contiene un archivo limitado a 10 millones de mensajes. El archivo completo con 721 millones de mensajes está disponible aquí: messages.csv (21,5 Gb).messages-demo.csv
+
+Datos recogidos por el proyecto REES46 CDP.
+
+Descripción de los archivos
+A continuación se muestra una breve descripción de los archivos. Puede encontrar la descripción detallada de cada propiedad en este cuaderno.
+
+holidays.csv
+Las campañas masivas suelen establecerse antes de los días festivos y las rebajas. Este archivo no contiene una lista completa de las festividades y actividades comerciales rusas, por lo que puede ver cómo se relacionan las campañas masivas con estas fechas.
+
+campaigns.csv
+Todos los mensajes están relacionados con algún tipo de campaña:
+
+Las campañas masivas se envían a las ventas y antes de las vacaciones para estimular las ventas y recuperar a los clientes.
+Los mensajes de activación (como el carrito abandonado) se envían automáticamente en función del comportamiento del usuario. Más usuarios visitaron el sitio web / aplicación: se envían más mensajes de activación.
+Los mensajes transaccionales se utilizan para algún tipo de proceso de entrega de información: bonificaciones añadidas, cambio de estado de entrega de pedidos, etc.
+Tenga en cuenta: es único solo para el archivo . Dos campañas con diferentes pueden tener el mismo archivo . Por lo tanto, el identificador único de la campaña es .campaign_idcampaign_typecampaign_typecampaign_idcampaign_type + campaign_id
+
+Se agregan propiedades adicionales a cada campaña para describir su significado (tema) o parámetros de asunto (emoji, llamada a la acción, etc.).
+
+messages.csv o messages-demo.csv
+Messages La tabla contiene una lista de todos los mensajes enviados con sus estados y metainformación:
+
+Campaña
+Canal
+Tipo
+Abierto (cuándo)
+Hecho clic (cuándo)
+Compra
+Etc. Consulte el conjunto de datos adjunto para obtener información detallada de cada propiedad
+client_first_purchase_date.csv
+El archivo tiene 2 columnas:
+
+ID de cliente
+Fecha de la primera compra
+Más conjuntos de datos
+Echa un vistazo a otros conjuntos de datos:
+
+https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store
+https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store
+https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop
+https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-jewelry-store
+https://www.kaggle.com/mkechinov/ecommerce-events-history-in-electronics-store
+https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-jewelry-store
+[NUEVO] https://www.kaggle.com/datasets/mkechinov/direct-messaging - Lo estás leyendo ahora mismo
+Muchas gracias
+Gracias a REES46 Marketing Platform por este conjunto de datos.
+
+Uso de conjuntos de datos en sus obras, libros, materiales educativos
+Puede utilizar este conjunto de datos de forma gratuita. Basta con mencionar la fuente de la misma: enlace a esta página y enlace a la plataforma de marketing REES46.
