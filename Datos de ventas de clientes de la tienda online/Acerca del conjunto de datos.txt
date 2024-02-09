@@ -1,0 +1,15 @@
+Acerca del conjunto de datos
+Descripción de la variable:
+
+Customer_id = ID
+de cliente único Edad = edad
+del cliente Sexo = 0: Hombre, 1: Mujer
+Revenue_Total = ventas totales por cliente
+N_Purchases = número de compras hasta la fecha Purchase_DATE = fecha
+de la última compra, dd.mm.aa
+Purchase_VALUE = última compra en €
+Pay_Method = 0: Carteras digitales, 1: Tarjeta, 2: PayPal, 3: Otros
+Time_Spent = tiempo de permanencia (en segundos) en el sitio web
+Navegador = 0: Chrome, 1: Safari, 2: Edge, 3: Otro
+Newsletter = 0: no suscrito, 1: suscrito
+Cupón = 0: no utilizado, 1: usado
