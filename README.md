@@ -15,15 +15,15 @@ Nuestro objetivo es entender el comportamiento de los usuarios de una plataforma
 - Bustos, Iván. https://www.linkedin.com/in/iv%C3%A1n-bustos-843727149
 - Santana, Kevin. https://www.linkedin.com/in/kevin-santana-7a8211217
 - Tonguino, Harlan. https://www.linkedin.com/in/harlan-tonguino
-- Vicente, Diego.
+- Vicente, Diego. https://www.linkedin.com/in/diego-vicente-7814b5146
 
 ## Tecnologías
 
-A. Python.
++ Python.
 
-B. Power BI.
++ Power BI.
 
-C. MySQL.
++ MySQL.
 
 ## Enlaces del Proyecto
 
