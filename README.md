@@ -11,6 +11,12 @@ Nuestro objetivo es entender el comportamiento de los usuarios de una plataforma
 
 ## Colaboradores
 
+- Arce, María Celeste. https://www.linkedin.com/in/maria-celeste-arce
+- Bustos, Iván. https://www.linkedin.com/in/iv%C3%A1n-bustos-843727149
+- Santana, Kevin. https://www.linkedin.com/in/kevin-santana-7a8211217
+- Tonguino, Harlan. https://www.linkedin.com/in/harlan-tonguino
+- Vicente, Diego.
+
 ## Tecnologías
 
 A. Python.
