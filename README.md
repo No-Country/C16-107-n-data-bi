@@ -19,6 +19,11 @@ Nuestro objetivo es entender el comportamiento de los usuarios de una plataforma
 
 ## Tecnologías
 
+<ul style="list-style-type: square;">
+  <li>Python.</li>
+  <li>Power BI.</li>
+  <li>MySQL.</li>
+</ul>
 + Python.
 
 + Power BI.
