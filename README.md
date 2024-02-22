@@ -13,9 +13,14 @@ Nuestro objetivo es entender el comportamiento de los usuarios de una plataforma
 
 ## Tecnologías
 
+A. Python.
+B. Power BI.
+C. MySQL.
+
 ## Enlaces del Proyecto
 
-1. https://www.kaggle.com/datasets/swathiunnikrishnan/amazon-consumer-behaviour-dataset?resource=download
+1. Base de Datos. https://www.kaggle.com/datasets/swathiunnikrishnan/amazon-consumer-behaviour-dataset?resource=download
+2. Link del repositorio: https://github.com/No-Country/C16-107-n-data-bi
 
 
 
