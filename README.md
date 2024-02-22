@@ -1,4 +1,4 @@
-# Recuperación de Carritos Abandonados en E-Commerce
+# Análisis de uso y comportamiento de usuarios de una plataforma de e-commerce
 
 **Descripción**
 
