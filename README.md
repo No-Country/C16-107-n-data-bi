@@ -14,7 +14,9 @@ Nuestro objetivo es entender el comportamiento de los usuarios de una plataforma
 ## Tecnologías
 
 A. Python.
+
 B. Power BI.
+
 C. MySQL.
 
 ## Enlaces del Proyecto
