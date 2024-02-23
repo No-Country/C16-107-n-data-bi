@@ -1,18 +1,15 @@
-# Análisis de uso y comportamiento de usuarios de una plataforma de e-commerce
+# :bulb: Análisis de uso y comportamiento de usuarios de una plataforma de e-commerce
 
-# :sparkles: Título 1
-## :rocket: Título 2
+## :sparkles: Industria o Rubro 
 
-## Industria o Rubro 
-
-**E-commerce.**
+**:shopping_cart: E-commerce.**
 
 ## Descripción
 
 **Este proyecto se centra en entender los patrones de comportamiento de los usuarios y sus valoraciones en una plataforma de comercio electrónico. 
 Nuestro objetivo es entender el comportamiento de los usuarios de una plataforma de e-commerce para aumentar las conversiones y reducir la tasa de abandono de carritos.**
 
-## Colaboradores
+## Colaboradores :rocket:
 
 - Arce, María Celeste. https://www.linkedin.com/in/maria-celeste-arce
 - Bustos, Iván. https://www.linkedin.com/in/iv%C3%A1n-bustos-843727149
