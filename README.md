@@ -1,5 +1,8 @@
 # Análisis de uso y comportamiento de usuarios de una plataforma de e-commerce
 
+# :sparkles: Título 1
+## :rocket: Título 2
+
 ## Industria o Rubro 
 
 **E-commerce.**
