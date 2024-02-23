@@ -2,7 +2,7 @@
 
 ## Industria o Rubro :sparkles:
 
-**:shopping_cart: E-commerce.**
+**:shopping_cart: E-commerce. :shopping_cart:**
 
 ## :pencil: Descripción
 
