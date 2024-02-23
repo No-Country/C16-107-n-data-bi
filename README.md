@@ -7,10 +7,6 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-   <img src="https://img.shields.io/github/issues/No-Country/C16-107-n-data-bi">
-   <img src="https://img.shields.io/github/stars/No-Country/C16-107-n-data-bi">
-   <img src="https://img.shields.io/github/forks/No-Country/C16-107-n-data-bi">
-   <img src="https://img.shields.io/github/license/No-Country/C16-107-n-data-bi">
    </p>
 ## Industria o Rubro :sparkles:
 
