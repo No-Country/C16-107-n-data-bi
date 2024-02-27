@@ -7,7 +7,6 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-  <img src="https://camo.githubusercontent.com/b25e5594ef0cd200f0ca9c5d8a8f284d9381cf2086b008d47da306c2060e1b72/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667">
    </p>
    
 ## Industria o Rubro :sparkles:
@@ -39,6 +38,10 @@ Nuestro objetivo es entender el comportamiento de los usuarios de una plataforma
 
 1. Base de Datos. https://www.kaggle.com/datasets/swathiunnikrishnan/amazon-consumer-behaviour-dataset?resource=download
 2. Link del repositorio: https://github.com/No-Country/C16-107-n-data-bi
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/b25e5594ef0cd200f0ca9c5d8a8f284d9381cf2086b008d47da306c2060e1b72/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667">
+   </p>
 
 
 
