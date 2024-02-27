@@ -8,6 +8,7 @@
 <p align="center">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
+   
 ## Industria o Rubro :sparkles:
 
 **:shopping_cart: E-commerce. :shopping_cart:**
